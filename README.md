@@ -1,2 +1,2 @@
 # ML-projects
-practice on data-processing and ML training
+practice on data-processing and ML
