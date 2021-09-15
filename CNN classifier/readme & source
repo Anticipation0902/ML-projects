@@ -1,0 +1,2 @@
+Simple first project training a CNN to classify btwn cats, cows and butterfly, reached 89.2% accuracy on final validation set.
+dataset source: https://www.kaggle.com/alessiocorrado99/animals10
